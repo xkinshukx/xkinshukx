@@ -9,8 +9,10 @@ I'm currently learning C++ And Python Languages<br>
 
 
 <h1> 🌐 Socials:<h1/>
-  <br>
 <a href ="https://www.instagram.com/_kinshukkk_/"><img width="100" height="50" alt="instagram" src="https://github.com/user-attachments/assets/5c8a5fe8-22c8-4cc2-a0e3-22d0578afedb" ></a>
+<a href ="https://www.linkedin.com/in/kinshuk-dhiman-54b49235a/"><img width="100" height="50" alt="LinkedIn_logo svg" src="https://github.com/user-attachments/assets/2c9384a8-ffd3-4e5b-b26f-f58a1fb52696"></a>
+
+
 
 
 # 💻 Tech Stack:
