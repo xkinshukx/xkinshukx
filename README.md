@@ -8,7 +8,7 @@ Interested in building efficient applications and contributing to open-source pr
 I'm currently learning C++ And Python Languages<br>
 
 
-<h3>🌐 Socials:<h3/>
+<h3> #🌐 Socials:<h3/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kinshukkk_) 
 
 # 💻 Tech Stack:
