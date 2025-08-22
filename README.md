@@ -8,7 +8,7 @@ Interested in building efficient applications and contributing to open-source pr
 I'm currently learning C++ And Python Languages<br>
 
 
-<h2> 🌐 Socials:<h2/>
+<h1> 🌐 Socials:<h1/>
 <a href ="https://www.instagram.com/_kinshukkk_/"><img width="100" height="50" alt="instagram" src="https://github.com/user-attachments/assets/5c8a5fe8-22c8-4cc2-a0e3-22d0578afedb" ></a>
 
 
