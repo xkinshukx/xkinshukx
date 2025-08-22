@@ -1,5 +1,5 @@
 #  About Me 🪽
-Hi Welcome to my Github Profile Page !<br>       
+Hi Welcome to my Github Profile Page !      
 I'm kinshuk a first year Computer Science in Artificial Intelligence And Data Science Student in CGC University Mohali<br>
 Passionate about programming & problem-solving<br>
 Skilled in C & C++<br>
