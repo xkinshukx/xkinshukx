@@ -8,8 +8,9 @@ Interested in building efficient applications and contributing to open-source pr
 I'm currently learning C++ And Python Languages<br>
 
 
-<h3> #🌐 Socials:<h3/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kinshukkk_) 
+<h3> 🌐 Socials:<h3/>
+<img width="1000" height="259" alt="image" src="https://github.com/user-attachments/assets/5c8a5fe8-22c8-4cc2-a0e3-22d0578afedb" />
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
