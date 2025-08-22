@@ -9,7 +9,7 @@ I'm currently learning C++ And Python Languages<br>
 
 
 <h3> 🌐 Socials:<h3/>
-<img width="1000" height="259" alt="image" src="https://github.com/user-attachments/assets/5c8a5fe8-22c8-4cc2-a0e3-22d0578afedb" />
+<a href ="https://www.instagram.com/_kinshukkk_/"><img width="50" height="25" alt="instagram" src="https://github.com/user-attachments/assets/5c8a5fe8-22c8-4cc2-a0e3-22d0578afedb" ></a>
 
 
 # 💻 Tech Stack:
