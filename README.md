@@ -1,14 +1,14 @@
 #  About Me 🪽
-Hi Welcome to my Github Profile Page                                                                                                                                                                                 
-I'm kinshuk a first year Computer Science in Artificial Intelligence And Data Science Student in CGC University Mohali
-Passionate about programming & problem-solving
-Skilled in C & C++
-Currently learning Data Structures, Algorithms, and exploring Game Development
-Interested in building efficient applications and contributing to open-source projects
+Hi Welcome to my Github Profile Page !<br>       
+I'm kinshuk a first year Computer Science in Artificial Intelligence And Data Science Student in CGC University Mohali<br>
+Passionate about programming & problem-solving<br>
+Skilled in C & C++<br>
+Currently learning Data Structures, Algorithms, and exploring Game Development<br>
+Interested in building efficient applications and contributing to open-source projects<br>
 I'm currently learning C++ And Python Languages<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kinshukkk_) 
 
 # 💻 Tech Stack:
