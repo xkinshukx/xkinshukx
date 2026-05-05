@@ -1,5 +1,4 @@
-<h1><img width="40" height="40" alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" />
-About Me 
+<h1><img width="40" height="40" alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" />About Me 
 </h1>
 Hi Welcome to my Github Profile Page !      
 I'm kinshuk a first year Computer Science in Artificial Intelligence And Data Science Student in CGC University Mohali<br>
