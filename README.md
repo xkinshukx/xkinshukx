@@ -1,23 +1,42 @@
-<h1><img width="40" height="40" alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" />About Me </h1>
+<h2>
+  <img alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" width="30" style="vertical-align: middle; margin-right: 8px;" />
+  About Me
+</h2>
 
-Hi Welcome to my Github Profile Page !      
-I'm kinshuk a first year Computer Science in Artificial Intelligence And Data Science Student in CGC University Mohali<br>
-Passionate about programming & problem-solving<br>
-Skilled in C & C++<br>
-Currently learning Data Structures, Algorithms, and exploring Game Development<br>
-Interested in building efficient applications and contributing to open-source projects<br>
-I'm currently learning C++ And Python Languages<br>
+Hi... Welcome to my GitHub Profile!
 
+I'm **Kinshuk**, a B.Tech student in **AI & Data Science**  
+Passionate about programming and problem-solving  
 
-<h1><img width="40" height="40" alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" />   Socials :</h1>                 <a href ="https://www.instagram.com/_kinshukkk_/"><img width="120" height="60" alt="instagram" src="https://github.com/user-attachments/assets/5c8a5fe8-22c8-4cc2-a0e3-22d0578afedb" ></a>                    <a href =https://www.linkedin.com/in/kinshuk-dhiman-54b49235a/"><img width="100" height="50" alt="LinkedIn_logo svg" src="https://github.com/user-attachments/assets/949bd610-c903-4e7b-b3cb-24704de2a3ed" ></a>                                                                                                                                                                                                        <a href =https://www.codedex.io/@xkinshukx](https://www.codedex.io/@xkinshukx"><img width="160" height="80" alt="Screenshot_2025-08-24_160752-removebg-preview" src="https://github.com/user-attachments/assets/c2e88559-8105-4c28-8462-00b87385ebdb" ></a>
+Skilled in: Python, C++   
+Currently learning: Data Structures, Algorithms, Python  
+Exploring: Game Development  
+Goal: Become a Data Scientist / Game Developer  
 
+<h2>
+  <img alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" width="30" style="vertical-align: middle; margin-right: 8px;" />
+  Socials
+</h2>
 
+<p>
+  <a href="https://www.instagram.com/_kinshukk_/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" style="margin-right: 10px;" />
+  </a>
 
+  <a href="https://www.linkedin.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right: 10px;" />
+  </a>
+</p>
 
-<h1><img width="40" height="40" alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" />
-   Tech Stack :</h1>                                                                                                                                                                                          <a href="https://en.wikipedia.org/wiki/HTML"><img width="50" height="50" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/54c00d5a-c808-4132-a525-cc158b2e0afa"></a>         <a href="https://en.wikipedia.org/wiki/CSS"><img width="40" height="50" alt="CSS3_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/6d15de77-0240-40eb-b80a-31fc59a00b91"></a>          <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="40" height="40" alt="JavaScript-logo (1)" src="https://github.com/user-attachments/assets/67ee93fd-74b8-4e2a-aedd-40b70b84ec78"></a>         <a href ="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="40" height="50" alt="C_Programming_Language svg" src="https://github.com/user-attachments/assets/2fa0b8dc-6f33-4493-a6fc-ce9d9a9d51ae" ></a>                                                                                                                                                                                         <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="40" height="50" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/8e859152-b888-4d5f-a188-aa99341b5716"></a>
+<h2>
+  <img alt="Screenshot_2025-08-24_162819-removebg-preview" src="https://github.com/user-attachments/assets/0c4d96b0-0b04-4e8e-b375-6fdfe9fa6e28" width="30" style="vertical-align: middle; margin-right: 8px;" />
+  Tech Stack
+</h2>
 
-
-
-
-
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" />
+</p>
