@@ -19,12 +19,12 @@ Goal: Become a Data Scientist / Game Developer
 </h2>
 
 <p>
-  <a href="https://www.instagram.com/_kinshukk_/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" style="margin-right: 10px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right: 10px;" />
+  <a href="https://www.instagram.com/_kinshukk_/" 
+     style="text-decoration: none; display: inline-block; margin-right: 12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
+  </a><a href="https://www.linkedin.com/" 
+     style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" />
   </a>
 </p>
 
