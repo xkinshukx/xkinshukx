@@ -19,7 +19,7 @@ Goal: Become a Data Scientist / Game Developer
 </h2>
 
 <p>
-  <a href="https://www.instagram.com/_kinshukk_/" 
+  <a href="https://www.instagram.com/_kinshukkk_/" 
      style="text-decoration: none; display: inline-block; margin-right: 12px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
   </a><a href="https://www.linkedin.com/" 
